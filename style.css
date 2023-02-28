@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: burlywood;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.faixa {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+li {
+    padding-right: 15px;
+}
+
+a {
+    color: chocolate;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color:darkslategray;
+}
+
+body {
+    background-color: beige;
+}
