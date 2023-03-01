@@ -18,13 +18,13 @@ li {
 }
 
 a {
-    color: chocolate;
+    color: rgb(189, 79, 0);
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: burlywood;
+    color: rgb(67, 38, 0);
 }
 
 body {
