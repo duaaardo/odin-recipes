@@ -1,0 +1,30 @@
+
+.r-column {
+    width: 33%;
+    height: 250px;
+    float: right;
+}
+
+.c-column {
+    width: 33%;
+    height: 250px;
+    float: left;
+}
+
+.l-column {
+    width: 33%;
+    height: 250px;
+    float: left;
+}
+
+.foto {
+    width: 350px;
+    height: auto;
+}
+
+body {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
