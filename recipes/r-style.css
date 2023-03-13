@@ -1,25 +1,23 @@
-
-.r-column {
-    width: 33%;
-    height: 250px;
-    float: right;
+.card {
+    display: block;
+    margin: 5px auto;
+    padding-left: auto ;
 }
 
-.c-column {
-    width: 33%;
-    height: 250px;
-    float: left;
+.ingr {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
 }
 
-.l-column {
-    width: 33%;
-    height: 250px;
-    float: left;
+h2 {
+    margin-top: 0;
 }
 
 .foto {
-    width: 350px;
+    width: 400px;
     height: auto;
+    border-radius: 20px;
 }
 
 body {
